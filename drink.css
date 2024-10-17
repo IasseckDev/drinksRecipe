@@ -1,0 +1,20 @@
+body {
+	background: url(img/logo.jfif) no-repeat;
+	background-color: black;		
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 280px;
+
+}
+
+img {
+	margin: auto;
+	display: block;
+}
+
+.imagem {
+	width: 350px;
+	height: 350px;
+
+}
+
